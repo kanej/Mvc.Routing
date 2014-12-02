@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.Routing", "Mvc.Routing\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.Routing.Specs", "Mvc.Routing.Specs\Mvc.Routing.Specs.csproj", "{833CA6FF-0690-4228-9BCD-A9DE20769452}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{48A55F5D-E530-4034-B7F4-407B76AE0322}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{673FB8BB-225C-47D6-A52D-7981DFCE6CAF}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection

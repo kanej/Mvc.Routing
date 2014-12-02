@@ -9,3 +9,4 @@ src/Mvc.Routing.Specs/bin
 src/Mvc.Routing.Specs/obj
 src/Mvc.Routing.6.0.ReSharper.user
 *.suo
+src/packages
